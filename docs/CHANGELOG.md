@@ -1,1 +1,2 @@
 - Update 234: improved module 12
+- Update 3602: improved module 27
