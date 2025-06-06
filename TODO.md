@@ -1,2 +1,3 @@
 - [ ] Task 417: optimize function 41
 - [ ] Task 525: optimize function 14
+- [ ] Task 724: optimize function 18
