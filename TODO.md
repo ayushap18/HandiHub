@@ -6,3 +6,4 @@
 - [ ] Task 928: optimize function 27
 - [ ] Task 198: optimize function 33
 - [ ] Task 466: optimize function 32
+- [ ] Task 272: optimize function 35
