@@ -10,3 +10,4 @@
 - [ ] Task 821: optimize function 7
 - [ ] Task 486: optimize function 14
 - [ ] Task 135: optimize function 47
+- [ ] Task 748: optimize function 27
