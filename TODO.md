@@ -12,3 +12,4 @@
 - [ ] Task 135: optimize function 47
 - [ ] Task 748: optimize function 27
 - [ ] Task 935: optimize function 17
+- [ ] Task 129: optimize function 27
