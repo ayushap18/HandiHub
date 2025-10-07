@@ -17,3 +17,4 @@ Session 614: tested feature 14, result OK
 Session 68: tested feature 20, result OK
 Session 625: tested feature 6, result OK
 Session 52: tested feature 19, result OK
+Session 105: tested feature 1, result OK
