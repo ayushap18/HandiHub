@@ -12,3 +12,4 @@
 - Update 5256: improved module 39
 - Update 10831: improved module 44
 - Update 23229: improved module 25
+- Update 14884: improved module 29
