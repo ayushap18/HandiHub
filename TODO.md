@@ -18,3 +18,4 @@
 - [ ] Task 630: optimize function 49
 - [ ] Task 679: optimize function 20
 - [ ] Task 941: optimize function 39
+- [ ] Task 450: optimize function 20
