@@ -1,0 +1,8 @@
+{
+  "name": "artsss",
+  "description": "An AI-powered ecosystem bridging the gap between traditional craftsmanship and the global digital economy with intelligent tools for artisans, volunteers, and customers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
