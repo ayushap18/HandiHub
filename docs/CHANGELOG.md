@@ -15,3 +15,4 @@
 - Update 14884: improved module 29
 - Update 24610: improved module 7
 - Update 12441: improved module 18
+- Update 8487: improved module 15
