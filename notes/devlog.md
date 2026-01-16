@@ -26,3 +26,4 @@ Session 842: tested feature 26, result OK
 Session 116: tested feature 12, result OK
 Session 367: tested feature 2, result OK
 Session 982: tested feature 13, result OK
+Session 143: tested feature 19, result OK
